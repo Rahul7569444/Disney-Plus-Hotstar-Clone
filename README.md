@@ -1,1 +1,2 @@
-# Disney-Plus-Hotstar-Clone
+# Disney+ Hotstar clone
+
